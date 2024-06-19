@@ -1,0 +1,12 @@
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\bin\Release\net8.0\OutFitMaker.Domain.deps.json
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\bin\Release\net8.0\OutFitMaker.Domain.dll
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\bin\Release\net8.0\OutFitMaker.Domain.pdb
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\obj\Release\net8.0\OutFitMaker.Domain.csproj.AssemblyReference.cache
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\obj\Release\net8.0\OutFitMaker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\obj\Release\net8.0\OutFitMaker.Domain.AssemblyInfoInputs.cache
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\obj\Release\net8.0\OutFitMaker.Domain.AssemblyInfo.cs
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\obj\Release\net8.0\OutFitMaker.Domain.csproj.CoreCompileInputs.cache
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\obj\Release\net8.0\OutFitMaker.Domain.dll
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\obj\Release\net8.0\refint\OutFitMaker.Domain.dll
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\obj\Release\net8.0\OutFitMaker.Domain.pdb
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\obj\Release\net8.0\ref\OutFitMaker.Domain.dll

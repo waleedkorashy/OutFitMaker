@@ -1,0 +1,34 @@
+D:\walid\OutFitMaker.DataAccess\bin\Debug\net8.0\OutFitMaker.DataAccess.deps.json
+D:\walid\OutFitMaker.DataAccess\bin\Debug\net8.0\OutFitMaker.DataAccess.runtimeconfig.json
+D:\walid\OutFitMaker.DataAccess\bin\Debug\net8.0\OutFitMaker.DataAccess.dll
+D:\walid\OutFitMaker.DataAccess\bin\Debug\net8.0\OutFitMaker.DataAccess.pdb
+D:\walid\OutFitMaker.DataAccess\bin\Debug\net8.0\OutFitMaker.Domain.dll
+D:\walid\OutFitMaker.DataAccess\bin\Debug\net8.0\OutFitMaker.Domain.pdb
+D:\walid\OutFitMaker.DataAccess\obj\Debug\net8.0\OutFitMaker.DataAccess.csproj.AssemblyReference.cache
+D:\walid\OutFitMaker.DataAccess\obj\Debug\net8.0\OutFitMaker.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\walid\OutFitMaker.DataAccess\obj\Debug\net8.0\OutFitMaker.DataAccess.AssemblyInfoInputs.cache
+D:\walid\OutFitMaker.DataAccess\obj\Debug\net8.0\OutFitMaker.DataAccess.AssemblyInfo.cs
+D:\walid\OutFitMaker.DataAccess\obj\Debug\net8.0\OutFitMaker.DataAccess.csproj.CoreCompileInputs.cache
+D:\walid\OutFitMaker.DataAccess\obj\Debug\net8.0\OutFitMaker.DataAccess.csproj.CopyComplete
+D:\walid\OutFitMaker.DataAccess\obj\Debug\net8.0\OutFitMaker.DataAccess.dll
+D:\walid\OutFitMaker.DataAccess\obj\Debug\net8.0\refint\OutFitMaker.DataAccess.dll
+D:\walid\OutFitMaker.DataAccess\obj\Debug\net8.0\OutFitMaker.DataAccess.pdb
+D:\walid\OutFitMaker.DataAccess\obj\Debug\net8.0\OutFitMaker.DataAccess.genruntimeconfig.cache
+D:\walid\OutFitMaker.DataAccess\obj\Debug\net8.0\ref\OutFitMaker.DataAccess.dll
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.DataAccess\bin\Debug\net8.0\OutFitMaker.DataAccess.deps.json
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.DataAccess\bin\Debug\net8.0\OutFitMaker.DataAccess.runtimeconfig.json
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.DataAccess\bin\Debug\net8.0\OutFitMaker.DataAccess.dll
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.DataAccess\bin\Debug\net8.0\OutFitMaker.DataAccess.pdb
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.DataAccess\bin\Debug\net8.0\OutFitMaker.Domain.dll
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.DataAccess\bin\Debug\net8.0\OutFitMaker.Domain.pdb
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.DataAccess\obj\Debug\net8.0\OutFitMaker.DataAccess.csproj.AssemblyReference.cache
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.DataAccess\obj\Debug\net8.0\OutFitMaker.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.DataAccess\obj\Debug\net8.0\OutFitMaker.DataAccess.AssemblyInfoInputs.cache
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.DataAccess\obj\Debug\net8.0\OutFitMaker.DataAccess.AssemblyInfo.cs
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.DataAccess\obj\Debug\net8.0\OutFitMaker.DataAccess.csproj.CoreCompileInputs.cache
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.DataAccess\obj\Debug\net8.0\OutFitMa.D9F1B0B4.Up2Date
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.DataAccess\obj\Debug\net8.0\OutFitMaker.DataAccess.dll
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.DataAccess\obj\Debug\net8.0\refint\OutFitMaker.DataAccess.dll
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.DataAccess\obj\Debug\net8.0\OutFitMaker.DataAccess.pdb
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.DataAccess\obj\Debug\net8.0\OutFitMaker.DataAccess.genruntimeconfig.cache
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.DataAccess\obj\Debug\net8.0\ref\OutFitMaker.DataAccess.dll

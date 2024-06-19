@@ -1,0 +1,24 @@
+D:\walid\OutFitMaker.Domain\bin\Debug\net8.0\OutFitMaker.Domain.deps.json
+D:\walid\OutFitMaker.Domain\bin\Debug\net8.0\OutFitMaker.Domain.dll
+D:\walid\OutFitMaker.Domain\bin\Debug\net8.0\OutFitMaker.Domain.pdb
+D:\walid\OutFitMaker.Domain\obj\Debug\net8.0\OutFitMaker.Domain.csproj.AssemblyReference.cache
+D:\walid\OutFitMaker.Domain\obj\Debug\net8.0\OutFitMaker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\walid\OutFitMaker.Domain\obj\Debug\net8.0\OutFitMaker.Domain.AssemblyInfoInputs.cache
+D:\walid\OutFitMaker.Domain\obj\Debug\net8.0\OutFitMaker.Domain.AssemblyInfo.cs
+D:\walid\OutFitMaker.Domain\obj\Debug\net8.0\OutFitMaker.Domain.csproj.CoreCompileInputs.cache
+D:\walid\OutFitMaker.Domain\obj\Debug\net8.0\OutFitMaker.Domain.dll
+D:\walid\OutFitMaker.Domain\obj\Debug\net8.0\refint\OutFitMaker.Domain.dll
+D:\walid\OutFitMaker.Domain\obj\Debug\net8.0\OutFitMaker.Domain.pdb
+D:\walid\OutFitMaker.Domain\obj\Debug\net8.0\ref\OutFitMaker.Domain.dll
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\bin\Debug\net8.0\OutFitMaker.Domain.deps.json
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\bin\Debug\net8.0\OutFitMaker.Domain.dll
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\bin\Debug\net8.0\OutFitMaker.Domain.pdb
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\obj\Debug\net8.0\OutFitMaker.Domain.csproj.AssemblyReference.cache
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\obj\Debug\net8.0\OutFitMaker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\obj\Debug\net8.0\OutFitMaker.Domain.AssemblyInfoInputs.cache
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\obj\Debug\net8.0\OutFitMaker.Domain.AssemblyInfo.cs
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\obj\Debug\net8.0\OutFitMaker.Domain.csproj.CoreCompileInputs.cache
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\obj\Debug\net8.0\OutFitMaker.Domain.dll
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\obj\Debug\net8.0\refint\OutFitMaker.Domain.dll
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\obj\Debug\net8.0\OutFitMaker.Domain.pdb
+E:\EELU\4\sem1\gradution project\Walid2\OutFitMaker.Domain\obj\Debug\net8.0\ref\OutFitMaker.Domain.dll

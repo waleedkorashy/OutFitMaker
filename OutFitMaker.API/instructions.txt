@@ -1,0 +1,7 @@
+1- clone the repo
+2- navigate to 'OutFitMaker_DotNet\OutFitMaker.API\OutFitMaker.sln' to open the project in Visual studio
+3-restore the database "OutfitMaker.bak"
+4- run the project using HTTP not HTTPS => since we are using "ngrok" to host our back-end and AI locally we cant use "HTTPS"
+
+
+feel free to contact our team anytime for any question 
